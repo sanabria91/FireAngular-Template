@@ -14,12 +14,13 @@ import { HomePage } from '../pages/home/home';
 
 //database connection
 export const firebaseConfig = {
-    apiKey: "AIzaSyDaIgoZxscr59GTOQNRdCNXo8NNO3t_VKw",
-    authDomain: "af2-lists-62095.firebaseapp.com",
-    databaseURL: "https://af2-lists-62095.firebaseio.com",
-    projectId: "af2-lists-62095",
+  //fill in details from firebase console
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
     storageBucket: "",
-    messagingSenderId: "751234326801"  
+    messagingSenderId: ""  
 };
 
 @NgModule({
